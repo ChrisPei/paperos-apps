@@ -78,6 +78,21 @@
       "homepage": "https://github.com/ChrisPei/PaperOS"
     },
     {
+      "id": "org.paperos.koreader",
+      "name": "KOReader",
+      "version": "2026.07.1.1",
+      "description": "电子书阅读器：EPUB、PDF、MOBI 等格式",
+      "kind": "papp",
+      "platforms": [
+        "paperos",
+        "armv7-softfloat"
+      ],
+      "url": "https://api.github.com/repos/ChrisPei/paperos-apps/releases/assets/656775593",
+      "size": 42689882,
+      "sha256": "fbb45051661cddde1183ffda3dc8607b84eb4c433daf3be2ece19dc3a2e656bd",
+      "homepage": "https://github.com/ChrisPei/PaperOS"
+    },
+    {
       "id": "koplugin.appstore",
       "name": "KOReader 插件商店",
       "version": "git:53de65f04142",

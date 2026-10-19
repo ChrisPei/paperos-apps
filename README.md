@@ -8,10 +8,12 @@ PaperOS 自动使用 raw 媒体类型；也可在仓库内查看 `catalog.json` 
 「已安装」可以打开和卸载；「更新」按应用编号和版本检查更新。
 安装不会覆盖应用自己的数据目录。下载与安装分开，下载成功不会自动执行程序。
 
-首批目录包含闹钟、万年历、天气、米家只读面板、木鱼和 KOReader 插件商店。
+目录包含闹钟、万年历、天气、米家只读面板、木鱼、KOReader 主程序和 KOReader 插件商店。
 前四个轻量包使用设备上已有的 PaperOS 原生功能；需要带应用商店的 PaperOS 版本。
 KOReader 插件商店在已安装的 KOReader 中运行，使用社区源码 ZIP，保留上游 GPL-3.0 许可证。
-KOReader 主程序暂时沿用现有独立移植；此目录不分发其二进制运行镜像。
+KOReader 主程序约 41 MiB，以完整的 PaperOS 应用包提供；下载后在 Kindle 确认安装。
+已有的独立移植可从「更新」升级，应用编号保持不变，阅读数据和插件保留。
+程序和对应源码在 [KOReader 发行页](https://github.com/ChrisPei/paperos-apps/releases/tag/koreader-2026.07.1.1)。
 
 ## 完整性和版本
 
