@@ -1,0 +1,15 @@
+{
+  "schema": "paperos-store-v1",
+  "packages": [
+    {
+      "id": "org.paperos.store-qa",
+      "name": "商店更新验证",
+      "version": "1.0.0",
+      "description": "仅用于 SDK 安装器验证",
+      "kind": "papp",
+      "url": "https://api.github.com/repos/ChrisPei/paperos-apps/contents/testing/update-v1.zip",
+      "sha256": "c0411d35f51ffaab90e2a2646854dcce94ab1e72edffe6c9f6797b23aa1ac2d9",
+      "size": 516
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "packages": {
+    "org.paperos.store-qa": {
+      "name": "商店更新验证",
+      "description": "KPM 目录与 .kpkg 更新验证",
+      "artifacts": [
+        {
+          "url": "https://api.github.com/repos/ChrisPei/paperos-apps/contents/testing/update-v2.kpkg",
+          "version": [
+            2,
+            0,
+            0
+          ],
+          "sha256": "50f48fab1ee048f72a978e92f289a036e39939ebf874ffb282cd62f44dfa4b65",
+          "supported_platforms": [
+            "kindlepw2"
+          ]
+        }
+      ]
+    }
+  }
+}
