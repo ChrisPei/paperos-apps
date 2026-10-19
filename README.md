@@ -1,7 +1,8 @@
 # PaperOS 应用仓库
 
 给 [PaperOS](https://github.com/ChrisPei/PaperOS) 的原生应用商店使用。
-目录地址：`https://raw.githubusercontent.com/ChrisPei/paperos-apps/main/catalog.json`。
+默认目录地址：`https://api.github.com/repos/ChrisPei/paperos-apps/contents/catalog.json`。
+PaperOS 自动使用 raw 媒体类型；也可在仓库内查看 `catalog.json` 的原始文件。
 
 在 Kindle 的「应用 → 发现」选择条目，下载后点「确认安装」。
 「已安装」可以打开和卸载；「更新」按应用编号和版本检查更新。
